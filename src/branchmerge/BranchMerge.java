@@ -15,9 +15,8 @@ public class BranchMerge {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Aqui é a nova Branch que criamos");
-        System.out.println("Teste 100001");
-        System.out.println("Versão Não-Oficial");
+        System.out.println("VERSÃO FINAL 1.1.0");
+        
     }
     
 }
